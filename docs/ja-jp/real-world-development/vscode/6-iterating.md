@@ -3,7 +3,6 @@ title: "演習 6 - GitHub Copilot の作業を反復して改善する"
 authors:
   - geektrainer
 lastUpdated: 2026-06-30
-next: false
 ---
 
 | [← 前のレッスン: エージェントの監視と管理][previous-lesson] |
